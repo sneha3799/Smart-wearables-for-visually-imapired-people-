@@ -1,0 +1,36 @@
+import RPi.GPIO as g
+import time
+
+g.setwarnings(False)
+g.setmode(g.BOARD)
+trig=7
+echo=11
+vib=10
+g.setup(trig,g.OUT)
+g.setup(echo,g.IN)
+g.setup(vib,g.OUT)
+
+def distance():
+    g.output(trig,True)
+    time.sleep(0.00001)
+    g.output(trig,False)
+    startTime=time.time()
+    stopTime=time.time()
+    
+    while g.input(echo)==0:
+        startTime=time.time()
+        
+    while g.input(echo)==1:
+        stopTime=time.time()
+        
+    t=stopTime-startTime
+    distance=(t*34300)/2
+    return distance
+
+while True:
+    k=distance()
+    print (k)
+    if (k<30):
+        g.output(vib,g.HIGH)
+    time.sleep(1)
+    g.output(vib,g.LOW)

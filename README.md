@@ -19,3 +19,5 @@ OpenCV
 
 IoT
 
+To get the weights for yolo object detection model go to link https://drive.google.com/file/d/1yT2-zmNFymMgY42Z72LIuqMaiWvYEUQR/view?usp=sharing
+

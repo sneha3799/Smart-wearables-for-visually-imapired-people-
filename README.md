@@ -9,3 +9,13 @@ Future scope -
 
 Pothole detection 
 
+Technology Stack -
+
+Java
+
+Python
+
+OpenCV
+
+IoT
+

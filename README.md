@@ -1,6 +1,7 @@
 # Smart-wearables-for-visually-imapired-people
 
-Purpose - 
+#Purpose - 
+
 External factor dependency 
 => Due to lack of essential sense the visually impaired people have to take help of other people or external sources for navigating in home and for carrying out day to day life tasks.
 
@@ -10,22 +11,27 @@ Blind Stick Issues
 
 One cap in which a camera is there can be used to detect around 80 objects using pretrained YOLO (You Only Look Once) object detection model trained on Microsoft COCO Dataset.
 
-Features - 
+#Features - 
 
 => Obstacle detection 
+
 => Road crossing 
+
 => Location sender app 
+
 => Location saver app
+
 => Crowdie places alert 
+
 => Detects whether the obstacle is person or non living thing.
 
 <p align="center"><img src="images/smart-shoes.jpg" width="400" height="400"></p>
 
-Future scope -
+#Future scope -
 
 Pothole detection 
 
-Technology Stack -
+#Technology Stack -
 
 Java
 

@@ -19,7 +19,7 @@ Features -
 => Crowdie places alert 
 => Detects whether the obstacle is person or non living thing.
 
-<p align="center"><img src="images/smart-shoes.jpg" width="200" height="400"></p>
+<p align="center"><img src="images/smart-shoes.jpg" width="400" height="400"></p>
 
 Future scope -
 

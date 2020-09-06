@@ -25,7 +25,7 @@ One cap in which a camera is there can be used to detect around 80 objects using
 
 => Detects whether the obstacle is person or non living thing.
 
-<p align="center"><img src="images/smart-shoes.jpg" width="400" height="400"></p>
+<p align="center"><img src="images/smart-shoes.jpeg" width="400" height="400"></p>
 
 #Future scope -
 

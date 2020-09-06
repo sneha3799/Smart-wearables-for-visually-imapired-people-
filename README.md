@@ -10,6 +10,7 @@ Blind Stick Issues
 => The blind can't tell the person if there is an obstcle in which direction to move ahead.
 
 One cap in which a camera is there can be used to detect around 80 objects using pretrained YOLO (You Only Look Once) object detection model trained on Microsoft COCO Dataset.
+Cap concept has been converted to android app which can detect crowdy places.
 
 #Features - 
 
@@ -23,9 +24,7 @@ One cap in which a camera is there can be used to detect around 80 objects using
 
 => Crowdie places alert 
 
-=> Detects whether the obstacle is person or non living thing.
-
-<p align="center"><img src="images/smart-shoes.jpeg" width="600" height="600"></p>
+<p align="center"><img src="images/smart-shoes.jpeg" width="600" height="500"></p>
 
 #Future scope -
 

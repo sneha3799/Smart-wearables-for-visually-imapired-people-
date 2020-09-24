@@ -4,4 +4,5 @@ Deployed Tiny-YOLOv2 and ssd mobilenet on android using tensorflow lite. Around 
 
 <p align="center">
 <img src="images/img1.jpg" width="200" height="400">
+<img src="images/img2.jpg" width="200" height="400">
 </p> 

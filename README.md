@@ -1,17 +1,17 @@
 # Smart-wearables-for-visually-imapired-people
 
-#Purpose - 
+# Purpose - 
 
 External factor dependency 
-=> Due to lack of essential sense the visually impaired people have to take help of other people or external sources for navigating in home and for carrying out day to day life tasks.
+=> Due to lack or absence of visual sense, visually impaired people have to take help of other people or external sources for navigation in their own home as well as for carrying out day to day life tasks.
 
 Blind Stick Issues 
 => The blind stick is unable to detect potholes leading to accidents.
-=> The blind can't tell the person if there is an obstcle in which direction to move ahead.
+=> The blind stick can't tell the user if there is an obstcle in which direction the user should move ahead.
 
 One cap in which a camera is there can be used to detect around 80 objects using pretrained YOLO (You Only Look Once) object detection model trained on Microsoft COCO Dataset.
 
-#Features - 
+## Features - 
 
 => Obstacle detection 
 
@@ -27,11 +27,11 @@ One cap in which a camera is there can be used to detect around 80 objects using
 
 <p align="center"><img src="images/smart-shoes.jpg" width="400" height="400"></p>
 
-#Future scope -
+## Future scope -
 
 Pothole detection 
 
-#Technology Stack -
+## Technology Stack -
 
 Java
 
